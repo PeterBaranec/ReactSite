@@ -1,0 +1,19 @@
+{
+  "name": "reactsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterBaranec/ReactSite.git"
+  },
+  "author": "Peter Baranec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterBaranec/ReactSite/issues"
+  },
+  "homepage": "https://github.com/PeterBaranec/ReactSite#readme"
+}
